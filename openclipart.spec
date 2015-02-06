@@ -1,6 +1,6 @@
 Name:           openclipart
 Version:        0.18
-Release:        1
+Release:        2
 Summary:        Open Clip Art Library
 Group:          Graphics
 License:        CC0
