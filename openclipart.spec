@@ -4,7 +4,7 @@ Release:        2
 Summary:        Open Clip Art Library
 Group:          Graphics
 License:        CC0
-URL:            http://www.openclipart.org/
+URL:            https://www.openclipart.org/
 Source0:        http://www.openclipart.org/downloads/%{version}/openclipart-%{version}-svgonly.tar.bz2
 # make linting happy
 Source100:	openclipart.rpmlintrc
